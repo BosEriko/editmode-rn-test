@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
+    "@haul-bundler/cli": "^0.22.1",
     "babel-jest": "~25.2.6",
     "jest": "~25.2.6",
     "react-test-renderer": "~16.11.0"
